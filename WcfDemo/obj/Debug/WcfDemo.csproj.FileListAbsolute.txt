@@ -1,0 +1,6 @@
+D:\WcfDemo\WcfDemo\bin\Debug\WcfDemo.dll.config
+D:\WcfDemo\WcfDemo\bin\Debug\WcfDemo.dll
+D:\WcfDemo\WcfDemo\bin\Debug\WcfDemo.pdb
+D:\WcfDemo\WcfDemo\obj\Debug\WcfDemo.csprojResolveAssemblyReference.cache
+D:\WcfDemo\WcfDemo\obj\Debug\WcfDemo.dll
+D:\WcfDemo\WcfDemo\obj\Debug\WcfDemo.pdb
